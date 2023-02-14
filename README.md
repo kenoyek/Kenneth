@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: kenoyek@gmail.com
-- ⚡ Fun fact: I love Agriculture
+- ⚡ Fun fact: I love Agriculture.
 -->
 <h1 align="center">Hi, I'm Kenny!👋🏾</h1>
 
