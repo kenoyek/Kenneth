@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Kenny!👋🏾</h1>
 
 ## About me
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a Data Scientist 👩🏽‍💻 <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Data Scientist picking up MLOps ⚙️ <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a Software Engineer/Data Engineer 👩🏽‍💻 <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Software Engineer picking up Data Engineering ⚙️ <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles and run an Agricultural Consulting firm <br>
 
 <br>
